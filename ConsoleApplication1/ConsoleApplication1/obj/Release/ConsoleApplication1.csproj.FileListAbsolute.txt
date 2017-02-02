@@ -1,0 +1,5 @@
+C:\Users\nicks\Desktop\учеба\EPAM курсы\ConsoleApplication1\ConsoleApplication1\bin\Release\Keywords.exe.config
+C:\Users\nicks\Desktop\учеба\EPAM курсы\ConsoleApplication1\ConsoleApplication1\bin\Release\Keywords.exe
+C:\Users\nicks\Desktop\учеба\EPAM курсы\ConsoleApplication1\ConsoleApplication1\bin\Release\Keywords.pdb
+C:\Users\nicks\Desktop\учеба\EPAM курсы\ConsoleApplication1\ConsoleApplication1\obj\Release\Keywords.exe
+C:\Users\nicks\Desktop\учеба\EPAM курсы\ConsoleApplication1\ConsoleApplication1\obj\Release\Keywords.pdb
