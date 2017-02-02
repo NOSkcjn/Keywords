@@ -8,6 +8,7 @@ namespace ConsoleApplication1
 {
     class Sorting
     {
+        //сортировка по значению
         public Dictionary<string, int> GetSortValues(Dictionary<string, int> keyWord)
         {
             Dictionary<string, int> result = new Dictionary<string, int>();
